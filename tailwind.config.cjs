@@ -14,6 +14,6 @@ module.exports = {
     logs: false,
     rtl: false,
     prefix: '',
-    themes: [...require("daisyui-ntsd")]
+    themes: [...require('daisyui-ntsd')]
   }
 };

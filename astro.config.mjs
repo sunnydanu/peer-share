@@ -5,6 +5,7 @@ import serviceWorker from 'astrojs-service-worker';
 
 // https://astro.build/config
 export default defineConfig({
+  base: '/peer_share/',
   site: 'https://godev.run/peer-share',
   outDir: './build',
   output: 'static',

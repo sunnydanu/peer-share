@@ -13,8 +13,7 @@ export const stunServers: string[] = [
   'stun:stun.voipstunt.com:3478'
 ];
 
-export const pageDescription = 'A secure client-side P2P connection offering features like file sharing and live clipboard.';
-
+ 
 export const githubLink = 'https://github.com/sunnydanu/peer-share';
 
 export const defaultSendOptions: SendOptions = {

@@ -39,9 +39,7 @@
   <div class="flex flex-row justify-between items-center">
     <div>
       <span class="text-sm">Chunk Size</span>
-      <p class="text-xs text-gray-500">
-        Higher make transfer faster but might cause buffer issue.
-      </p>
+      <p class="text-xs text-gray-500">Higher make transfer faster but might cause buffer issue.</p>
     </div>
     <select bind:value={chunkSize} on:change={onChange} class="select select-bordered">
       <option value={8 * 1024}>8kb</option>

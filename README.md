@@ -1,5 +1,4 @@
 # PeerShare
- 
 
 PeerShare: A secure client-side P2P connection offering features like file sharing and live clipboard.
 
@@ -22,7 +21,6 @@ PeerShare: A secure client-side P2P connection offering features like file shari
 3. The answer opens the offer link and then sends it to the offer.
 4. The offer paste the answer code then click `Accept Answer`.
 5. The offer/answer can now select and send files.
-
 
 https://github.com/user-attachments/assets/0dd023a1-4541-41f6-b1d6-69efc8c32eb8
 
@@ -97,7 +95,7 @@ npm run test
 
 ## Deployment
 
- For self-host, you can run `npm run build` to build the static files. This no need the server side of svelte.
+For self-host, you can run `npm run build` to build the static files. This no need the server side of svelte.
 
 ## Known Issues
 
@@ -120,8 +118,8 @@ For feature requests, please open an issue on the GitHub repository to discuss y
 ## License
 
 This project is 100% open-source.
-[MIT License](https://github.com/sunnydanu/peer-share/blob/main/LICENSE) - Copyright &copy; 2024 Sunny Danu.
+[MIT License](https://github.com/sunnydanu/peer-share/blob/main/LICENSE) - Copyright &copy; 2024 [Sunny Danu](https://sunnydanu.com).
 
 ## Credits
 
-Inspired from [zero-share](https://github.com/ntsd/zero-share) Special thanks to [Jirawat Boonkumnerd](https://github.com/ntsd/zero-share) 
+Inspired from [zero-share](https://github.com/ntsd/zero-share) Special thanks to [Jirawat Boonkumnerd](https://github.com/ntsd/zero-share)
