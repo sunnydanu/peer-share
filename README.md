@@ -24,7 +24,7 @@ PeerShare: A secure client-side P2P connection offering features like file shari
 5. The offer/answer can now select and send files.
 
 
-https://github.com/user-attachments/assets/0dd023a1-4541-41f6-b1d6-69efc8c32eb8\
+https://github.com/user-attachments/assets/0dd023a1-4541-41f6-b1d6-69efc8c32eb8
 
 ## How does it work?
 
