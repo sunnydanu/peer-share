@@ -23,7 +23,8 @@ PeerShare: A secure client-side P2P connection offering features like file shari
 4. The offer paste the answer code then click `Accept Answer`.
 5. The offer/answer can now select and send files.
 
-[example.webm](https://user-images.githubusercontent.com/8283616/234210465-7b20ad8d-9b1b-413b-ac4e-3919f9261b8e.webm)
+
+https://github.com/user-attachments/assets/0dd023a1-4541-41f6-b1d6-69efc8c32eb8\
 
 ## How does it work?
 
