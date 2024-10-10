@@ -120,7 +120,7 @@ For feature requests, please open an issue on the GitHub repository to discuss y
 ## License
 
 This project is 100% open-source.
-[MIT License](https://github.com/sunnydanu/peer-share/blob/main/LICENSE) - Copyright &copy; 2024 Sunny Danu.
+[MIT License](https://github.com/sunnydanu/peer-share/blob/main/LICENSE) - Copyright &copy; 2024 [Sunny Danu](https://sunnydanu.com).
 
 ## Credits
 
