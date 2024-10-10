@@ -1,0 +1,12 @@
+---
+import MainLayout from '../layouts/main.astro';
+
+import OfferPage from '../components/OfferPage.svelte';
+---
+
+<MainLayout
+  title="Peer Share | Offer"
+  description="A secure client-side P2P connection offering features like file sharing and live clipboard."
+>
+  <OfferPage client:load client:only="svelte" />
+</MainLayout>

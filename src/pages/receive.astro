@@ -1,0 +1,12 @@
+---
+import MainLayout from '../layouts/main.astro';
+
+import ReceivePage from '../components/ReceivePage.svelte';
+---
+
+<MainLayout
+  title="Peer Share | Answer"
+  description="A secure client-side P2P connection offering features like file sharing and live clipboard."
+>
+  <ReceivePage client:load client:only="svelte" />
+</MainLayout>
